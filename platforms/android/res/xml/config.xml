@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.brycesawesomeapp.Almond-Sensors" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+    <feature name="App">
+        <param name="android-package" value="org.apache.cordova.App" />
+    </feature>
+    <name>Almond+ Sensors</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+        Also, there are sprinkles.
+    </description>
+    <author email="bryce@cobryce.com" href="http://brycesawesomeapp.com/Almond-Sensors">
+        Bryce Chidester
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
